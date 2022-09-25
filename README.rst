@@ -80,6 +80,16 @@ How to cite this
 
 If you want to do so, feel free to `cite <CITATION.cff>`_ this components in your publications:
 
+::
+
+    @article{kourouklides2022gqa,
+      author = {Ioannis Kourouklides},
+      journal = {OSF Preprints},
+      title = {Grounded QA},
+      year = {2022},
+      doi = {10.17605/osf.io/8frxm},
+      license = {Creative Commons Zero CC0 1.0}
+    }
 
 License 
 -------
