@@ -70,17 +70,17 @@ This component depends on the following components of GUT-AI:
 Environment simulators
 ^^^^^^^^^^^^^^^^^^^^^^
 
-See `Simulators <simulators/README.rst>`_.
+See `Simulators <https://github.com/GUT-AI/gut-ai/blob/master/simulators/README.rst>`_.
 
 Datasets
 ^^^^^^^^
 
-See `Datasets <datasets/README.rst>`_.
+See `Datasets <https://github.com/GUT-AI/gut-ai/blob/master/README.rst>`_.
 
 Model Zoos
 ^^^^^^^^^^
 
-See `Model Zoos <model_zoos/README.rst>`_.
+See `Model Zoos <https://github.com/GUT-AI/gut-ai/blob/master/model_zoos/README.rst>`_.
 
 Getting involved
 ----------------
