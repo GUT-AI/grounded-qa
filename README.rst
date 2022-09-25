@@ -8,7 +8,7 @@ Grounded QA
   :target: LICENSE
   :alt: License
 
-.. image:: https://img.shields.io/badge/DOI-10.31219%2Fosf.io%2Fsjrkh-blue
+.. image:: https://img.shields.io/badge/DOI-10.31219%2Fosf.io%2F8frxm-blue
   :target: CITATION.cff
   :alt: DOI
 
@@ -47,12 +47,12 @@ Component page
 
 Thanks to OSF (by the `Center for Open Science <https://www.cos.io/>`_), the project is temporarily hosted at:
 
-- __Coming soon!__
+- https://osf.io/8frxm/
 
 Component DOI
 ^^^^^^^^^^^^^
 
-**Project identifier:** __Coming soon!__
+**Project identifier:** https://doi.org/10.17605/OSF.IO/8FRXM
 
 Component dependencies
 ^^^^^^^^^^^^^^^^^^^^^^
