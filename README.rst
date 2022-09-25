@@ -34,7 +34,7 @@ Main papers
 Selected publications
 ^^^^^^^^^^^^^^^^^^^^^
 
-__Coming soon!__
+- Kourouklides, I. (2022). Bayesian Deep Multi-Agent Multimodal Reinforcement Learning for Embedded Systems in Games, Natural Language Processing and Robotics. *OSF Preprints*. https://doi.org/10.31219/osf.io/sjrkh
 
 References
 ^^^^^^^^^^
@@ -61,6 +61,10 @@ Component dependencies
 
 This component depends on the following components of GUT-AI:
 
+* `QA <https://github.com/GUT-AI/gut-ai/blob/master/components/README.rst#component-c4-9-qa>`_
+* `VSPT <https://github.com/GUT-AI/gut-ai/blob/master/components/README.rst#component-c4-10-vspt>`_
+* `Multi-Agent Communication <https://github.com/GUT-AI/gut-ai/blob/master/components/README.rst#component-c4-11-multi-agent-communication>`_
+* `Multi-Robot Path Planning <https://github.com/GUT-AI/gut-ai/blob/master/components/README.rst#component-c4-12-multi-robot-path-planning>`_
 
 Environment simulators
 ^^^^^^^^^^^^^^^^^^^^^^
