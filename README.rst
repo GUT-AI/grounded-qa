@@ -43,7 +43,7 @@ Component files
 ---------------
 
 Component page
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^
 
 Thanks to OSF (by the `Center for Open Science <https://www.cos.io/>`_), the project is temporarily hosted at:
 
