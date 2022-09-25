@@ -88,7 +88,7 @@ Getting involved
 How to cite this
 ----------------
 
-If you want to do so, feel free to `cite <CITATION.cff>`_ this components in your publications:
+If you want to do so, feel free to `cite <CITATION.cff>`_ this component in your publications:
 
 ::
 
