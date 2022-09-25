@@ -39,6 +39,8 @@ __Coming soon!__
 References
 ^^^^^^^^^^
 
+See `References <references/README.rst>`_.
+
 Component files
 ---------------
 
@@ -63,13 +65,17 @@ This component depends on the following components of GUT-AI:
 Environment simulators
 ^^^^^^^^^^^^^^^^^^^^^^
 
+See `Simulators <simulators/README.rst>`_.
 
 Datasets
 ^^^^^^^^
 
+See `Datasets <datasets/README.rst>`_.
 
 Model Zoos
 ^^^^^^^^^^
+
+See `Model Zoos <model_zoos/README.rst>`_.
 
 Getting involved
 ----------------
