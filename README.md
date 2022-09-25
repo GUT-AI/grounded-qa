@@ -1,2 +1,0 @@
-# grounded-qa
-Grounded QA
