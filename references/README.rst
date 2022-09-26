@@ -74,7 +74,9 @@ Resources
 - `Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning <https://arxiv.org/pdf/1703.06585.pdf>`_
 
 **2018**
+
 - `Ask the Right Questions: Active Question Reformulation with Reinforcement Learning <https://arxiv.org/pdf/1705.07830.pdf>`_
+- `Embodied Question Answering <https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w40/Das_Embodied_Question_Answering_CVPR_2018_paper.pdf>`_
 
 **2019**
 
