@@ -46,6 +46,11 @@ References
 - `GuessWhat?! Visual object discovery through multi-modal dialogue <https://arxiv.org/pdf/1611.08481.pdf>`_
 - `Visual Dialog <https://arxiv.org/pdf/1611.08669.pdf>`_
 
+**2018**
+
+- `End-to-End Audio Visual Scene-Aware Dialog using Multimodal Attention-Based Video Features <https://arxiv.org/pdf/1806.08409.pdf>`_
+- `Audio Visual Scene-Aware Dialog <https://arxiv.org/pdf/1901.09107.pdf>_`
+
 Image-based QA (RL)
 -------------------
 
@@ -83,6 +88,6 @@ References
 **2019**
 
 - `Improving Generative Visual Dialog by Answering Diverse Questions <https://arxiv.org/pdf/1909.10470.pdf>`_
-
+- `Neural Modular Control for Embodied Question Answering <https://arxiv.org/pdf/1810.11181.pdf>`_
 
 
