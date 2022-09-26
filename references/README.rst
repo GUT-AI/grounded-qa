@@ -77,6 +77,8 @@ References
 
 - `Ask the Right Questions: Active Question Reformulation with Reinforcement Learning <https://arxiv.org/pdf/1705.07830.pdf>`_
 - `Embodied Question Answering <https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w40/Das_Embodied_Question_Answering_CVPR_2018_paper.pdf>`_
+- `Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments <https://arxiv.org/pdf/1711.07280.pdf>`_
+- `IQA: Visual Question Answering in Interactive Environments <https://arxiv.org/pdf/1712.03316.pdf>`_
 
 **2019**
 
