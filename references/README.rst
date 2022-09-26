@@ -38,8 +38,6 @@ Resources
 
 **2017**
 
-- `GuessWhat?! Visual object discovery through multi-modal dialogue <https://arxiv.org/pdf/1611.08481.pdf>`_
-- `Visual Dialog <https://arxiv.org/pdf/1611.08669.pdf>`_
 - `Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning <https://arxiv.org/pdf/1703.06585.pdf>`_
 
 **2019**
