@@ -33,8 +33,8 @@ Criteria
 * It uses a pipeline Downstream Task
 * Use of text as context (Corpus-based QA)
 
-Resources
-^^^^^^^^^
+References
+^^^^^^^^^^
 
 **2016**
 
@@ -66,8 +66,8 @@ Criteria
 * It uses a pipeline Downstream Task
 * Use of text as context (Corpus-based QA)
 
-Resources
-^^^^^^^^^
+References
+^^^^^^^^^^
 
 **2017**
 
