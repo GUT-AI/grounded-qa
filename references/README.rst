@@ -34,3 +34,5 @@ Criteria
 Resources
 ^^^^^^^^^
 
+`Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning <https://arxiv.org/pdf/1703.06585.pdf>`_
+
