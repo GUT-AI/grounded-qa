@@ -24,12 +24,14 @@ Criteria
 * It is about Question Answering (Non-Task-Oriented Dialogue) systems
 * It uses RL
 * It uses an end-to-end Downstream Task
+* Use of images (or video) as context (Image-based QA)
 
 *Exclusion criteria (non-exhaustive):*
 
 * It is about Task-Oriented Dialogue (TOD) systems
 * It uses Supervised Learning
 * It uses a pipeline Downstream Task
+* Use of text as context (Corpus-based QA)
 
 Resources
 ^^^^^^^^^
@@ -37,7 +39,6 @@ Resources
 **2017**
 
 - `Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning <https://arxiv.org/pdf/1703.06585.pdf>`_
-- `Neural symbolic machines: Learning semantic parsers on freebase with weak supervision <https://arxiv.org/pdf/1611.00020.pdf>`_
 
 **2019**
 
