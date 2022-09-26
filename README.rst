@@ -25,7 +25,7 @@ Grounded QA
 About
 -----
 
-The purpose of this component is to perform Grounded Question-Answering (**Grounded QA**) by applying *Grounded Cognition* on QA tasks on multiple mobile robots or multiple aerial robots (drones) or a combination of them using *Multimodal Learning*.
+The purpose of this component is to perform Grounded Question Answering (**Grounded QA**) by applying *Grounded Cognition* on QA tasks on multiple mobile robots or multiple aerial robots (drones) or a combination of them using *Multimodal Learning*.
 
 
 Main papers
