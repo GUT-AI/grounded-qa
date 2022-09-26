@@ -1,7 +1,7 @@
 .. |br| raw:: html
 
   <br/>
-  
+ 
 Grounded QA
 ===========
 .. image:: https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg
