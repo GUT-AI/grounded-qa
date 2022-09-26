@@ -36,3 +36,6 @@ Resources
 
 `Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning <https://arxiv.org/pdf/1703.06585.pdf>`_
 
+`Improving Generative Visual Dialog by Answering Diverse Questions <https://arxiv.org/pdf/1909.10470.pdf>`_
+
+
