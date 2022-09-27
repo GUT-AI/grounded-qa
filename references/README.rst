@@ -43,6 +43,7 @@ References
 **2017**
 
 - `Neural Symbolic Machines: Learning Semantic Parsers on Freebase with Weak Supervision <https://arxiv.org/pdf/1611.00020.pdf>`_
+- `Task-Oriented Query Reformulation with Reinforcement Learning <https://aclanthology.org/D17-1061.pdf>`_
 
 
 Image-based QA (RL)
