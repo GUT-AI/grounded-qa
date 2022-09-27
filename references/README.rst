@@ -36,6 +36,14 @@ Criteria
 References
 ^^^^^^^^^^
 
+**2016**
+
+- `End-to-End Goal-Driven Web Navigation <https://papers.nips.cc/paper/2016/file/1579779b98ce9edb98dd85606f2c119d-Paper.pdf>`_
+
+**2017**
+
+- `Neural Symbolic Machines: Learning Semantic Parsers on Freebase with Weak Supervision <https://arxiv.org/pdf/1611.00020.pdf>`_
+
 
 Image-based QA (RL)
 -------------------
