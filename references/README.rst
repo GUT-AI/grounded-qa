@@ -84,6 +84,7 @@ References
 
 - `Improving Generative Visual Dialog by Answering Diverse Questions <https://arxiv.org/pdf/1909.10470.pdf>`_
 - `Neural Modular Control for Embodied Question Answering <https://arxiv.org/pdf/1810.11181.pdf>`_
+- `Multi-Target Embodied Question Answering <https://openaccess.thecvf.com/content_CVPR_2019/papers/Yu_Multi-Target_Embodied_Question_Answering_CVPR_2019_paper.pdf>`_
 
 **2022**
 
