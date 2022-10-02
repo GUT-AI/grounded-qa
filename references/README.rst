@@ -85,4 +85,15 @@ References
 - `Improving Generative Visual Dialog by Answering Diverse Questions <https://arxiv.org/pdf/1909.10470.pdf>`_
 - `Neural Modular Control for Embodied Question Answering <https://arxiv.org/pdf/1810.11181.pdf>`_
 
+**2022**
+
+- `Good Time to Ask: A Learning Framework for Asking for Help in Embodied Visual Navigation <https://arxiv.org/pdf/2206.10606.pdf>`_
+
+
+Grounded Cognition and AI
+-------------------------
+
+**2021**
+
+- `A Survey of Embodied AI: From Simulators to Research Tasks <https://arxiv.org/pdf/2103.04918.pdf>`_
 
